@@ -1,4 +1,4 @@
-SatuSehat - Software Engineering LC09 Kelompok 1
+SehatPintar - Software Engineering LC09 Kelompok 1
 
 Anggota:\
 2440085215 - Muhammad Yaasiin Ramadhan\
